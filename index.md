@@ -9,3 +9,6 @@
 $ git Branch
 Know which branch you are, in your Git repository
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
